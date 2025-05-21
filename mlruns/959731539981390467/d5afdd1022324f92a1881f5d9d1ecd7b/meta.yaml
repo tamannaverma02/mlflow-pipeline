@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/d5afdd1022324f92a1881f5d9d1ecd7b/artifacts
+end_time: 1747822683149
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: d5afdd1022324f92a1881f5d9d1ecd7b
+run_name: bemused-cub-783
+run_uuid: d5afdd1022324f92a1881f5d9d1ecd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822683038
+status: 3
+tags: []
+user_id: Acer

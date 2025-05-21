@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/d2ea3d3fb9c5489f9c4b350a04edde0e/artifacts
+end_time: 1747822682913
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: d2ea3d3fb9c5489f9c4b350a04edde0e
+run_name: delicate-asp-758
+run_uuid: d2ea3d3fb9c5489f9c4b350a04edde0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822682802
+status: 3
+tags: []
+user_id: Acer

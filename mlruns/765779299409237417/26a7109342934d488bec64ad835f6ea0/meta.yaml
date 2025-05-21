@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/765779299409237417/26a7109342934d488bec64ad835f6ea0/artifacts
+end_time: 1747812273229
+entry_point_name: ''
+experiment_id: '765779299409237417'
+lifecycle_stage: active
+run_id: 26a7109342934d488bec64ad835f6ea0
+run_name: stylish-flea-807
+run_uuid: 26a7109342934d488bec64ad835f6ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747812272576
+status: 3
+tags: []
+user_id: Acer

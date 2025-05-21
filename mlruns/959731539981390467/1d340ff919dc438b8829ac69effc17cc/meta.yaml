@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/1d340ff919dc438b8829ac69effc17cc/artifacts
+end_time: 1747822682523
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: 1d340ff919dc438b8829ac69effc17cc
+run_name: gifted-sheep-56
+run_uuid: 1d340ff919dc438b8829ac69effc17cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822682426
+status: 3
+tags: []
+user_id: Acer

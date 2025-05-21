@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2ecce95756014b02ba1939836dd51085/artifacts
+end_time: 1747811031684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ecce95756014b02ba1939836dd51085
+run_name: painted-dog-95
+run_uuid: 2ecce95756014b02ba1939836dd51085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747811031513
+status: 3
+tags: []
+user_id: Acer

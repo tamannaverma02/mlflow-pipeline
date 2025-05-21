@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/ed21ea5462e44565a86768ef5bb5f896/artifacts
+end_time: 1747822682137
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: ed21ea5462e44565a86768ef5bb5f896
+run_name: ambitious-swan-624
+run_uuid: ed21ea5462e44565a86768ef5bb5f896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822681994
+status: 3
+tags: []
+user_id: Acer

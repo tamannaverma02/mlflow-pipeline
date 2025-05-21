@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/dfcb4fcc016b4ca1ae4d623edc4ccdfb/artifacts
+end_time: 1747822682665
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: dfcb4fcc016b4ca1ae4d623edc4ccdfb
+run_name: enchanting-dove-495
+run_uuid: dfcb4fcc016b4ca1ae4d623edc4ccdfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822682538
+status: 3
+tags: []
+user_id: Acer

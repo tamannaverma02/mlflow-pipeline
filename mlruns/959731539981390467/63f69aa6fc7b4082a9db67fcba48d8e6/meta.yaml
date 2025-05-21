@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/63f69aa6fc7b4082a9db67fcba48d8e6/artifacts
+end_time: 1747822682426
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: 63f69aa6fc7b4082a9db67fcba48d8e6
+run_name: efficient-hog-706
+run_uuid: 63f69aa6fc7b4082a9db67fcba48d8e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822682347
+status: 3
+tags: []
+user_id: Acer

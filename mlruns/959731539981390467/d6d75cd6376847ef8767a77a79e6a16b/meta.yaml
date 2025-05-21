@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/d6d75cd6376847ef8767a77a79e6a16b/artifacts
+end_time: 1747822683270
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: d6d75cd6376847ef8767a77a79e6a16b
+run_name: crawling-bear-210
+run_uuid: d6d75cd6376847ef8767a77a79e6a16b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822683167
+status: 3
+tags: []
+user_id: Acer

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/2b901dc017f04e199e3f8ccd6d20f5e2/artifacts
+end_time: 1747822682237
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: 2b901dc017f04e199e3f8ccd6d20f5e2
+run_name: debonair-lynx-502
+run_uuid: 2b901dc017f04e199e3f8ccd6d20f5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822682152
+status: 3
+tags: []
+user_id: Acer

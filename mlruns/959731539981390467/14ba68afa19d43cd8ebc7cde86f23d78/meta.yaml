@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%20Projects/mlflow-pipeline/mlruns/959731539981390467/14ba68afa19d43cd8ebc7cde86f23d78/artifacts
+end_time: 1747822683377
+entry_point_name: ''
+experiment_id: '959731539981390467'
+lifecycle_stage: active
+run_id: 14ba68afa19d43cd8ebc7cde86f23d78
+run_name: fun-yak-303
+run_uuid: 14ba68afa19d43cd8ebc7cde86f23d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822683278
+status: 3
+tags: []
+user_id: Acer
