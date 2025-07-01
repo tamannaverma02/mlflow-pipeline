@@ -7,10 +7,10 @@ import mlflow
 import dagshub
 
 #initialize dagshub
-dagshub.init(repo_owner='tamannaverma02', repo_name='mlflow-pipeline', mlflow=True)
+dagshub.init(repo_owner='username', repo_name='repo_name', mlflow=True)
 
 # Set the tracking URI to DagsHub MLflow server
-mlflow.set_tracking_uri("https://dagshub.com/tamannaverma02/mlflow-pipeline.mlflow")
+mlflow.set_tracking_uri("https://dagshub.com/username/repo.mlflow")
 # Load the Breast Cancer dataset
 data = load_breast_cancer()
 X = pd.DataFrame(data.data, columns=data.feature_names)
